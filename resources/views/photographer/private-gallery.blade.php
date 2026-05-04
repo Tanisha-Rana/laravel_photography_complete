@@ -1,0 +1,1 @@
+@extends('photographer.layout.structure') @section('content') <h3>Private Client Gallery</h3> @endsection
